@@ -50,15 +50,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Webflow_logo.svg" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Framer_Logo.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo.png" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/resources/zustand-logo.svg" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Recoil.png" width="50" height="50"/>
+  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50" viewBox="0 0 48 48">
+  <circle cx="24" cy="24" r="20" fill="#1976d2"></circle>
+  <path fill="#fff" d="M30.1,21.43c0,0-1.73,5.42-1.86,5.88c-0.05-0.46-1.31-10.2-1.31-10.2c-2.95,0-4.52,2.09-5.35,4.32 c0,0-2.1,5.44-2.27,5.9c-0.01-0.43-0.32-5.84-0.32-5.84c-0.18-2.72-2.66-4.37-4.67-4.37l2.42,14.76c3.09-0.01,4.75-2.1,5.62-4.32 c0,0,1.85-4.8,1.93-5.02c0.02,0.21,1.33,9.34,1.33,9.34c3.09,0,4.76-1.96,5.66-4.1l4.32-10.67C32.54,17.11,30.93,19.2,30.1,21.43z"></path>
+</svg>
   <img src="https://axios-http.com/assets/logo.svg" width="50" height="50"/>
-  <img src="https://neon.tech/favicon.svg" width="50" height="50"/>
+
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/icon.png" width="50" height="50"/>
+  
 </p>
 
 
