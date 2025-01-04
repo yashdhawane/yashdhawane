@@ -27,10 +27,9 @@
 
 ---
 
-## 🚀 **Languages & Tools I Use**
-<p align="center">
-  <a target="_blank"><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind,bootstrap,postgres,mongodb,sqlite,prisma,django,python,tensorflow,aws,docker,figma,postman,git,github" alt="Tech Stack" /></a>
-</p>
+## 🚀 Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind,bootstrap,postgres,mongodb,sqlite,prisma,django,python,tensorflow,aws,docker,figma,postman,git,github)
+
 
 ---
 
