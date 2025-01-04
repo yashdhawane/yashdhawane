@@ -1,47 +1,60 @@
+<h1 align="center">Hi 👋, I'm Yash Dhawane</h1>
+<h3 align="center">A Passionate Full-Stack Developer from Mumbai, India</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Enthusiast;Web3+%7C+Next.js+%7C+Django;Python+%7C+Machine+Learning+%7C+AI;Learning+Something+New+Everyday!">
+</p>
 
-<!--
-**yashdhawane/yashdhawane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛤️ **My Journey So Far**
+🚀 My tech journey started with a strong curiosity for **web development**. Over time, I expanded my skills to backend development, databases, and even **machine learning & AI**.  
+💡 I'm constantly exploring new **technologies & frameworks** to build scalable and robust applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 **What I Have Learned**
+- **Frontend Development**: React, Next.js, Tailwind CSS, ShadCN, Material Tailwind  
+- **Backend Development**: Node.js, Express, Django, FastAPI  
+- **State Management**: Recoil, Redux, TanStack Query  
+- **Databases**: PostgreSQL, MongoDB, SQLite, NeonDB, Prisma ORM  
+- **Cloud & DevOps**: AWS, Firebase, Docker, CI/CD  
+- **AI & ML**: Python, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow  
 
-<h1>Hi 👋, I'm Yash Dhawane</h1>
-<p>A passionate Fullstack developer from Mumbai,India</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://x.com/dev_X_100" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/yashdhawane/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+### 🔭 **What I’m Currently Working On**
+- 🚀 **Zcrum-app** – A **JIRA-like project management tool** using Next.js, Prisma, Clerk, NeonDB, and ShadCN.  
+- 🔬 **Machine Learning** – Exploring **Python ML libraries** for data science projects.  
+- 📢 **Twitter Bot** – A bot that **fetches the latest news and generates AI-powered tweets** with images.  
+- 🃏 **UNO Game** – A Web3-based **real-money** UNO game.  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashdhawane&show_icons=true&locale=en" alt="yashdhawane" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdhawane&" alt="yashdhawane" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashdhawane&show_icons=true&locale=en&layout=compact" alt="yashdhawane" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashdhawane" alt="yashdhawane" /></a></p>
+---
 
+## 🚀 **Languages & Tools I Use**
+<p align="center">
+  <a target="_blank"><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind,bootstrap,postgres,mongodb,sqlite,prisma,django,python,tensorflow,aws,docker,figma,postman,git,github" alt="Tech Stack" /></a>
+</p>
 
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashdhawane&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdhawane&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashdhawane&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashdhawane&theme=radical" alt="GitHub Trophies" /></a>
+</p>
+
+---
+
+## 🌍 **Connect with Me**
+<p align="center">
+  <a href="https://x.com/dev_X_100"><img src="https://img.shields.io/badge/X-%230f1419.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/yashdhawane/"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/yashdhawane"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+⭐️ **If you like my work, consider giving it a star!**  
