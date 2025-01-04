@@ -43,8 +43,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Webflow_logo.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Framer_Logo.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/resources/zustand-logo.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Recoil.png" width="50" height="50"/>
+  <img src="https://axios-http.com/assets/logo.svg" width="50" height="50"/>
+  <img src="https://neon.tech/favicon.svg" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/icon.png" width="50" height="50"/>
 </p>
+
 
 
 ---
